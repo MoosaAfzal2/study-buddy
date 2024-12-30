@@ -1,3 +1,7 @@
+vector_db/
+db/
+
+
 *.bundle.*
 lib/
 node_modules/

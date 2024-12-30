@@ -1,0 +1,3 @@
+Test: Python Test
+Time: Friday 10 AM
+Topics: All Major topics
